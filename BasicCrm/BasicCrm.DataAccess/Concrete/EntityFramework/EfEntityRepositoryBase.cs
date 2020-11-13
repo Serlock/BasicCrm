@@ -29,7 +29,6 @@ namespace BasicCrm.DataAccess.Concrete.EntityFramework
                 if (admin != null)
                 {
                     sqlCommand = "exec sp_GetAdmin " +
-                        "@AdminId = '" + admin.AdminId + "', " +
                         "@AdminName = '" + admin.AdminName + "', " +
                         "@AdminPassword = '" + admin.AdminPassword + "'";
                 }
