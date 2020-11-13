@@ -26,8 +26,7 @@ namespace BasicCrm.WEB.Controllers
 
         public IActionResult Customers()
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -38,8 +37,7 @@ namespace BasicCrm.WEB.Controllers
 
         public IActionResult CustomerDetails(int id)
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -51,8 +49,7 @@ namespace BasicCrm.WEB.Controllers
         [HttpGet]
         public IActionResult CreateCustomer()
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -62,8 +59,7 @@ namespace BasicCrm.WEB.Controllers
         [HttpPost]
         public IActionResult CreateCustomer(Customer customer)
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -86,8 +82,7 @@ namespace BasicCrm.WEB.Controllers
         [HttpGet]
         public IActionResult EditCustomer(int id)
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -99,8 +94,7 @@ namespace BasicCrm.WEB.Controllers
         [HttpPost]
         public IActionResult EditCustomer(Customer customer)
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
@@ -122,8 +116,7 @@ namespace BasicCrm.WEB.Controllers
 
         public IActionResult DeleteCustomer(Customer customer)
         {
-            var adminName = HttpContext.Session.GetString("AdminName");
-            if (adminName == null)
+            if (HttpContext.Session.GetString("AdminName") == null)
             {
                 return RedirectToAction("AdminLogin", "Admin");
             }
