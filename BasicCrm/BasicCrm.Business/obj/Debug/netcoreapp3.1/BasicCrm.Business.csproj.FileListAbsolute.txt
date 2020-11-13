@@ -1,0 +1,14 @@
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.AssemblyInfo.cs
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.Business.deps.json
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.Business.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.Business.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\bin\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.csproj.CopyComplete
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Business\obj\Debug\netcoreapp3.1\BasicCrm.Business.csproj.CoreCompileInputs.cache

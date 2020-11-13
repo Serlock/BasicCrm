@@ -1,0 +1,9 @@
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.deps.json
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfo.cs
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.pdb

@@ -1,0 +1,15 @@
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.AssemblyInfo.cs
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.deps.json
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.csproj.CopyComplete
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.dll
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.pdb
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.runtimeconfig.json
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\bin\Debug\netcoreapp3.1\BasicCrm.DataAccess.runtimeconfig.dev.json
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.genruntimeconfig.cache
+C:\Users\serkan\Desktop\BasicCrm\BasicCrm\BasicCrm.DataAccess\obj\Debug\netcoreapp3.1\BasicCrm.DataAccess.csproj.CoreCompileInputs.cache
